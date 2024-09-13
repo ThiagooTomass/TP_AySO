@@ -1,1 +1,3 @@
 usuario: thiago123
+model name	: AMD Ryzen 5 4600H with Radeon Graphics
+model name	: AMD Ryzen 5 4600H with Radeon Graphics
