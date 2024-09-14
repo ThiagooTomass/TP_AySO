@@ -1,0 +1,485 @@
+pwd
+cd..
+cd ..
+pws
+pwd
+whoami
+ls -la
+ls -la | grep ssh
+ls -l .ssh/
+ssh
+ssh-keygen
+ls -la | grep ssh
+pwd
+cat $home/.ssh/*.pub
+tree
+cat ssh-keygen.pub 
+ls -l .ssh/
+ls -l .ssh
+cat ssh-keygen.pub 
+ll
+mkdir repogit_tp
+cd repogit_tp/
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+cd ..
+sudo apt update && sudo apt install -y git
+cd repogit_tp/
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+cd ..
+sudo apt update && sudo apt install -y git
+sudo dnf install -y git
+cd repogit_tp/
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+tree
+pwd
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+cat ssh-keygen.pub 
+cd ..
+cat ssh-keygen.pub 
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+pwd
+tree
+cat ssh-keygen
+cat ssh-keygen.pub 
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+cd repogit_tp/
+tree
+ssh_keeygen
+ssh-keygen -t ed25519
+tree
+ls -l
+pwd
+cd ..
+tree
+cd repogit_tp/
+tree
+cd ..
+tree
+cat ssh-keygen.pub 
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+cat/.ssh/*.pub
+git clone git@github.com:ThiagooTomass/TP_AySO.git
+sudo dnf install terminator
+tree
+ls -l
+rm ssh-keygen* -rf
+tree
+echo comando_dump_net
+cat comando_dump_net
+echo "El comando es: tcpdump" > comando_dump_net
+ll
+rm comando_dump_net 
+cd repogit/
+ll
+cd TP_AySO/
+LL
+ll
+echo "El comando es: tcpdump" > comando_dump_net
+ll
+echo comando_dump_net 
+cat comando_dump_net 
+git add .
+git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+git push
+cat << FIN >> README.md 
+Alumno: Thiago Ramos
+Division: 314
+Turno: Noche
+FIN
+
+ll
+cat README.md 
+git add .
+git commit -m "ADD: informacion estudiante"
+git push
+history 
+history -a
+man history -a
+#history >> /home/
+pwd
+history >> /home/.bash_history
+history >> $home/.bash_history
+history -a >> $home/.bash_history
+history -a  $home/.bash_history
+history 
+touch history -a >> $home/.bash_history
+ls -l $home/.bash_history
+sudo history -a >> $home/.bas
+history -a $HOME/.bash_history
+ll /home/
+cd ..
+pwd
+cd ..
+ll
+cd thiago123/
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+history -a $home/.bash_history
+sudo history -a $home/.bash_history
+sudo history -a > $home/.bash_history
+touch .bash_history /home/
+sudo touch .bash_history /home/
+ll /home/
+sudo touch /home/.bash_history
+ll /home/
+history -a > .bash_history
+ll
+pwd
+touch history -a > .bash_history
+ll
+cat history 
+rm history 
+ll
+touch history -a >> .bash_history
+ll
+cat history 
+rm history 
+ history -a >> .bash_history
+history -a
+ll
+echo  history -a >> .bash_history
+ll
+echo  history -a >> ~/.bash_history
+ll
+tree
+tree /home/
+ history -a >> ~/.bash_history
+    1  pwd
+    2  cd..
+    3  cd ..
+    4  pws
+    5  pwd
+    6  whoami
+    7  ls -la
+    8  ls -la | grep ssh
+    9  ls -l .ssh/
+   10  ssh
+   11  ssh-keygen
+   12  ls -la | grep ssh
+   13  pwd
+   14  cat $home/.ssh/*.pub
+   15  tree
+   16  cat ssh-keygen.pub 
+   17  ls -l .ssh/
+   18  ls -l .ssh
+   19  cat ssh-keygen.pub 
+   20  ll
+   21  mkdir repogit_tp
+   22  cd repogit_tp/
+   23  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   24  cd ..
+   25  sudo apt update && sudo apt install -y git
+   26  cd repogit_tp/
+   27  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   28  cd ..
+   29  sudo apt update && sudo apt install -y git
+   30  sudo dnf install -y git
+   31  cd repogit_tp/
+   32  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   33  tree
+   34  pwd
+   35  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   36  cat ssh-keygen.pub 
+   37  cd ..
+   38  cat ssh-keygen.pub 
+   39  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   40  pwd
+   41  tree
+   42  cat ssh-keygen
+   43  cat ssh-keygen.pub 
+   44  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   45  cd repogit_tp/
+   46  tree
+   47  ssh_keeygen
+   48  ssh-keygen -t ed25519
+   49  tree
+   50  ls -l
+   51  pwd
+   52  cd ..
+   53  tree
+   54  cd repogit_tp/
+   55  tree
+   56  cd ..
+   57  tree
+   58  cat ssh-keygen.pub 
+   59  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   60  cat/.ssh/*.pub
+   61  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   62  sudo dnf install terminator
+   63  tree
+   64  ls -l
+   65  rm ssh-keygen* -rf
+   66  tree
+   67  echo comando_dump_net
+   68  cat comando_dump_net
+   69  echo "El comando es: tcpdump" > comando_dump_net
+   70  ll
+   71  rm comando_dump_net 
+   72  cd repogit/
+   73  ll
+   74  cd TP_AySO/
+   75  LL
+   76  ll
+   77  echo "El comando es: tcpdump" > comando_dump_net
+   78  ll
+   79  echo comando_dump_net 
+   80  cat comando_dump_net 
+   81  git add .
+   82  git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+   83  git push
+   84  cat << FIN >> README.md 
+Alumno: Thiago Ramos
+Division: 314
+Turno: Noche
+FIN
+
+   85  ll
+   86  cat README.md 
+   87  git add .
+   88  git commit -m "ADD: informacion estudiante"
+   89  git push
+   90  history 
+   91  history -a
+   92  man history -a
+   93  #history >> /home/
+   94  pwd
+   95  history >> /home/.bash_history
+   96  history >> $home/.bash_history
+   97  history -a >> $home/.bash_history
+   98  history -a  $home/.bash_history
+   99  history 
+  100  touch history -a >> $home/.bash_history
+  101  ls -l $home/.bash_history
+  102* sudo history -a >> $home/.bas
+  103  history -a $HOME/.bash_history
+  104  ll /home/
+  105  cd ..
+  106  pwd
+  107  cd ..
+  108  ll
+  109  cd thiago123/
+  110  ll
+  111  cd repogit/
+  112  ll
+  113  cd TP_AySO/
+  114  ll
+  115  history -a $home/.bash_history
+  116  sudo history -a $home/.bash_history
+  117  sudo history -a > $home/.bash_history
+  118  touch .bash_history /home/
+  119  sudo touch .bash_history /home/
+  120  ll /home/
+  121  sudo touch /home/.bash_history
+  122  ll /home/
+  123  history -a > .bash_history
+  124  ll
+  125  pwd
+  126  touch history -a > .bash_history
+  127  ll
+  128  cat history 
+  129  rm history 
+  130  ll
+  131  touch history -a >> .bash_history
+  132  ll
+  133  cat history 
+  134  rm history 
+  135   history -a >> .bash_history
+  136  ll
+  137  echo  history -a >> .bash_history
+  138  ll
+  139  echo  history -a >> ~/.bash_history
+  140  ll
+  141  tree
+  142  tree /home/
+  143   history -a >> ~/.bash_history
+  144  tree /home/
+  145   history  >> ~/.bash_history
+    1  pwd
+    2  cd..
+    3  cd ..
+    4  pws
+    5  pwd
+    6  whoami
+    7  ls -la
+    8  ls -la | grep ssh
+    9  ls -l .ssh/
+   10  ssh
+   11  ssh-keygen
+   12  ls -la | grep ssh
+   13  pwd
+   14  cat $home/.ssh/*.pub
+   15  tree
+   16  cat ssh-keygen.pub 
+   17  ls -l .ssh/
+   18  ls -l .ssh
+   19  cat ssh-keygen.pub 
+   20  ll
+   21  mkdir repogit_tp
+   22  cd repogit_tp/
+   23  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   24  cd ..
+   25  sudo apt update && sudo apt install -y git
+   26  cd repogit_tp/
+   27  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   28  cd ..
+   29  sudo apt update && sudo apt install -y git
+   30  sudo dnf install -y git
+   31  cd repogit_tp/
+   32  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   33  tree
+   34  pwd
+   35  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   36  cat ssh-keygen.pub 
+   37  cd ..
+   38  cat ssh-keygen.pub 
+   39  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   40  pwd
+   41  tree
+   42  cat ssh-keygen
+   43  cat ssh-keygen.pub 
+   44  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   45  cd repogit_tp/
+   46  tree
+   47  ssh_keeygen
+   48  ssh-keygen -t ed25519
+   49  tree
+   50  ls -l
+   51  pwd
+   52  cd ..
+   53  tree
+   54  cd repogit_tp/
+   55  tree
+   56  cd ..
+   57  tree
+   58  cat ssh-keygen.pub 
+   59  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   60  cat/.ssh/*.pub
+   61  git clone git@github.com:ThiagooTomass/TP_AySO.git
+   62  sudo dnf install terminator
+   63  tree
+   64  ls -l
+   65  rm ssh-keygen* -rf
+   66  tree
+   67  echo comando_dump_net
+   68  cat comando_dump_net
+   69  echo "El comando es: tcpdump" > comando_dump_net
+   70  ll
+   71  rm comando_dump_net 
+   72  cd repogit/
+   73  ll
+   74  cd TP_AySO/
+   75  LL
+   76  ll
+   77  echo "El comando es: tcpdump" > comando_dump_net
+   78  ll
+   79  echo comando_dump_net 
+   80  cat comando_dump_net 
+   81  git add .
+   82  git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+   83  git push
+   84  cat << FIN >> README.md 
+Alumno: Thiago Ramos
+Division: 314
+Turno: Noche
+FIN
+
+   85  ll
+   86  cat README.md 
+   87  git add .
+   88  git commit -m "ADD: informacion estudiante"
+   89  git push
+   90  history 
+   91  history -a
+   92  man history -a
+   93  #history >> /home/
+   94  pwd
+   95  history >> /home/.bash_history
+   96  history >> $home/.bash_history
+   97  history -a >> $home/.bash_history
+   98  history -a  $home/.bash_history
+   99  history 
+  100  touch history -a >> $home/.bash_history
+  101  ls -l $home/.bash_history
+  102* sudo history -a >> $home/.bas
+  103  history -a $HOME/.bash_history
+  104  ll /home/
+  105  cd ..
+  106  pwd
+  107  cd ..
+  108  ll
+  109  cd thiago123/
+  110  ll
+  111  cd repogit/
+  112  ll
+  113  cd TP_AySO/
+  114  ll
+  115  history -a $home/.bash_history
+  116  sudo history -a $home/.bash_history
+  117  sudo history -a > $home/.bash_history
+  118  touch .bash_history /home/
+  119  sudo touch .bash_history /home/
+  120  ll /home/
+  121  sudo touch /home/.bash_history
+  122  ll /home/
+  123  history -a > .bash_history
+  124  ll
+  125  pwd
+  126  touch history -a > .bash_history
+  127  ll
+  128  cat history 
+  129  rm history 
+  130  ll
+  131  touch history -a >> .bash_history
+  132  ll
+  133  cat history 
+  134  rm history 
+  135   history -a >> .bash_history
+  136  ll
+  137  echo  history -a >> .bash_history
+  138  ll
+  139  echo  history -a >> ~/.bash_history
+  140  ll
+  141  tree
+  142  tree /home/
+  143   history -a >> ~/.bash_history
+  144  tree /home/
+  145   history  >> ~/.bash_history
+  146  tree /home/
+  147  rm -rf unarchivo
+  148  tree /home/
+  149  git add .
+  150  git commit -m "DELETE: elimino ejemplos"
+  151  git status
+  152  git push
+  153  ll
+  154  cat .bash_history 
+  155  ls -a
+  156  ls -a /home
+  157  cat /home/.bash_history 
+  158  rm -rf .bash_history 
+  159  ls -a
+  160  history 
+  161  history >> /home/.bash_history 
+  162  sudo history >> /home/.bash_history 
+  163  rm -rf /home/.bash_history 
+  164  cd ..
+  165  pwd
+  166  cd ..
+  167  ls -a
+  168  rm -rf .bash_history 
+  169  rm .bash_history 
+  170  ls -a
+  171  tree
+  172  cd thiago123/
+  173  cd repogit/
+  174  cd TP_AySO/
+  175  tree
+  176  cd ..
+  177  cd TP_AySO/
+  178  TREE
+  179  tree
+  180  tree /home/
+  181  history >> /home/thiago123/.bash_history
